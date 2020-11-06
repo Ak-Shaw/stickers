@@ -149,6 +149,32 @@
           "emojis": ["😭","💧"]
         }
       ]
+    },
+    {
+      "identifier": "3",
+      "name": "Crio.Do",
+      "publisher": "A K Shaw (Crio.Do)",
+      "tray_image_file": "crio-logo.jpg",
+      "image_data_version":"1",
+      "avoid_cache":false,
+      "publisher_email":"ayush.shaw@crio-users.in",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "01_crio_learn-by-doing.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "02_crio_lets-build-it.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "03_crio_logo.webp",
+          "emojis": ["😄","😀"]
+        }
+      ]
     }
   ]
 }
